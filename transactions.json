@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "tipo": "retiro",
+        "monto": 1000,
+        "destinatario": "Joaquin Lopez"
+    },
+    {
+        "id": 2,
+        "tipo": "transferencia",
+        "monto": 5000,
+        "destinatario": "Julieta Barrios"
+    },
+    {
+        "id": 3,
+        "tipo": "retiro",
+        "monto": 2000,
+        "destinatario": "Nicolás Pereyra"
+    }
+]
